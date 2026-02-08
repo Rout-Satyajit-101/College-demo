@@ -1,4 +1,4 @@
 # College-demo
 This is my first git repositary.
 <br>
-Author - Satyajit Rout
+Author - Satyajit Rout (Kendrapada)
